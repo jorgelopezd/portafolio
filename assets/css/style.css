@@ -1,3 +1,18 @@
 .navbar img{
     width: 150px;
 }
+
+#footer{
+    background-color: #212529;
+}
+#footer a{
+    color: white;
+}
+#footer .fa-brands {
+    width: 100px ;
+}
+#footer img{
+    height: 100px;
+}
+
+
