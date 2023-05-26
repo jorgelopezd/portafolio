@@ -11,12 +11,6 @@
     background-size: cover;
     background-position: left;
 }
-
-
-#footer{
-    background-color: #212529;
-}
-
 .container{
     background-color: #212529;
 }
@@ -41,14 +35,10 @@
 .acercademi li{
     color: #f8f9fa;
 }
-#footer a{
-    color: white;
+.pie{
+	text-align: center;
 }
-#footer .fa-brands {
-    width: 100px ;
+.texto-footer{
+    font-size: 20px;
 }
-#footer img{
-    height: 100px;
-}
-
 
