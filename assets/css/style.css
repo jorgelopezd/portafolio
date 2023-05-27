@@ -14,6 +14,31 @@
 .container{
     background-color: #212529;
 }
+.carousel-inner img {
+    width: 70%;
+    max-height: 500px;
+}
+.carousel-caption{
+    width: 70%;
+    max-height: 50px
+}
+.card-body{
+    background-color: #212529;
+    color: white;
+}
+
+.carousel-inner{
+    height: 400px;
+}
+
+.card-body img {
+    height: auto ;
+    width: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .experiencia{
     text-align: center;  
 }
